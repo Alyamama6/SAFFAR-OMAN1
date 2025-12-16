@@ -14,7 +14,6 @@ class GuideHomeScreen extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              // العنوان + صورة الجايد
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
@@ -208,3 +207,4 @@ class GuideHomeScreen extends StatelessWidget {
     );
   }
 }
+
