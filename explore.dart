@@ -110,7 +110,7 @@ class ExploreScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 18),
 
-                  // ===== صف الأيقونات (history / places / guides / cars) =====
+                  // =====  (history / places / guides / cars) =====
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
@@ -311,3 +311,4 @@ class ExploreScreen extends StatelessWidget {
     );
   }
 }
+
