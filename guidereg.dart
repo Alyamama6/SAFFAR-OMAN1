@@ -386,3 +386,4 @@ class _GuideRegistrationScreenState extends State<GuideRegistrationScreen> {
     );
   }
 }
+
